@@ -1,0 +1,19 @@
+{
+    "name": "rootinformatica/cerimonial",
+    "description": "Sistema para controle de convidados.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Luis da Silva",
+            "email": "tecnicoroot@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
