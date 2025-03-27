@@ -11,9 +11,14 @@
     "authors": [
         {
             "name": "David Luis da Silva",
-            "email": "tecnicoroot@gmail.com"
+            "email": "tecnicoroot@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php" : "^8.0",
+        "ext-pdo": "^8.0",
+        "robmorgan/phinx": "^0.16.6"
+    }
 }
